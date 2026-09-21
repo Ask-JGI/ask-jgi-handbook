@@ -8,7 +8,7 @@ Documenting operations and procedures for the Ask-JGI consultation service.
 
 ## Reading the handbook
 
-The current live version of this book can be found [here](https://jgibristol.github.io/ask-jgi-handbook/pages/intro.html).
+The current live version of this book can be found [here](https://Ask-JGI.github.io/ask-jgi-handbook/pages/intro.html).
 
 ## Modifying the handbook
 
