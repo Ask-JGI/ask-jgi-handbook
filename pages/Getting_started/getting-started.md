@@ -50,7 +50,7 @@ able to grant you access.
 
 # Storing data and writing code
 
-We recommend that, where possible, code and data are shared openly. This could be on a public GitHub repository, either under the [Jean Golding Institute GitHub](https://github.com/JGIBristol/Ask-JGI) GitHub, or on your own account. You will be given access to the Ask-JGI GitHub repo during your induction.
+We recommend that, where possible, code and data are shared openly. This could be on a public GitHub repository, either under the [Ask-JGI GitHub](https://github.com/Ask-JGI) GitHub, or on your own account. You will be given access to the Ask-JGI GitHub during your induction.
 
 When a project is shared publicly, we ask that the README file or front page contains the attribution "Supported by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/)'s Ask-JGI service".
 
