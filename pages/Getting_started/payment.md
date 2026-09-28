@@ -7,18 +7,18 @@ We expect most students will claim via the **Temporary Staffing Service (TSS)** 
 
 ## JGI Admin Contact
 
-For any queries regarding payment claims, timesheets or related matters, please contact Joanne Norris [✉️](mailto:joanne.norris@bristol.ac.uk) from the JGI admin team. If Joanne is unavailable, please contact the JGI admin team[✉️](mailto:jgi-admin@bristol.ac.uk).
+For any queries regarding payment claims, timesheets or related matters, please contact Josh Tyler[✉️](mailto:josh.tyler@bristol.ac.uk) or Hannah Berg[✉️](mailto:hannah.berg@bristol.ac.uk). If Joanne is unavailable, please contact the JGI admin team[✉️](mailto:jgi-admin@bristol.ac.uk).
 
 ## Temporary Staffing Service (TSS) Claims
 
 To claim for hours worked, Ask-JGI team members will need to ensure that their timesheet is up to date before the end of each month.
 We will send a reminder in the Microsoft Teams channel with the exact deadline each month.
-Once checked, the JGI admin team will then submit your total hours to University HR for payment.
+Once checked, the URI admin team will then submit your total hours to University HR for payment.
 
 Information on this process can be found on the [CAG SharePoint](https://uob.sharepoint.com/sites/myerp/SitePages/cag-casual-academics-and-guests.aspx).
 
 ### TSS timesheet process for those claiming hours
-Ask-JGI individual timesheets and be  in the [ Timesheets.25-26 sharepoint folder](https://uob.sharepoint.com/:f:/r/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Ask-JGI/Timesheets/Timesheets.25-26?csf=1&web=1&e=J5b4sr). Each time member will only be able to access the their one timesheet. 
+Ask-JGI individual timesheets and be  in the [ Timesheets.26-27 sharepoint folder](https://uob.sharepoint.com/teams/grp-jeangoldinginstituteteam/Shared%20Documents/Forms/All.aspx?id=%2Fteams%2Fgrp%2Djeangoldinginstituteteam%2FShared%20Documents%2FAsk%2DJGI%2FTimesheets%2FTimesheets%2E26%2D27&viewid=b73478a6%2D62fb%2D4d9a%2D995e%2D8eb0c22f1801&csf=1&amp=&CID=a07104f9%2D6645%2D4e48%2D8836%2D273f74e8df17&FolderCTID=0x012000FFD4B69490FD3D439DB32D031C19D56F). Each time member will only be able to access the their one timesheet. 
 
 Those on **TIER 4 visa’s** will also have a TSS timesheet provided to them by the TSS service. This is a weekly timesheet, and hours cannot be amended in previous weeks. Hence sometimes, there may be a discrepancy between your JGI and TSS timesheet. This is fine. Joanne has access to both and will always claim your most recently updated hours. 
 
