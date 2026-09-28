@@ -1,8 +1,7 @@
 (time-allocation)=
 # Time allocation for queries
 Although Ask-JGI team members have up to one day (7 hours) to spend on Ask-JGI
-queries, it is expected that most queries should take half a day or less
-(approx. 1-3 hours). If you have a query that you think might take longer than
+queries, it is expected that most queries should take less than that. If you have a query that you think might take longer than
 this can be discussed with the Ask-JGI lead.
 
 ```{tip}

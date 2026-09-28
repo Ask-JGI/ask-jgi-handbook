@@ -2,7 +2,7 @@
 # Shift sign-up
 
 
-Shifts are booked using the [Ask-JGI shifts 2025/26 List](https://uob.sharepoint.com/:l:/r/teams/grp-JeanGoldingInstituteTeam-Ask-JGI/Lists/AskJGI%20shifts%20202526?e=CyUJqB). Use the **Book a Shift** view to see the available shifts. You can sign up for a shift by clicking on the relevant date and adding your name to the **Shift** field.
+Shifts are booked using the [Ask-JGI shifts 2026/27 List](https://uob.sharepoint.com/:l:/r/teams/grp-JeanGoldingInstituteTeam-Ask-JGI/Lists/AskJGI%20shifts%20202526?e=CyUJqB). Use the **Book a Shift** view to see the available shifts. You can sign up for a shift by clicking on the relevant date and adding your name to the **Shift** field.
 
 
 
@@ -11,10 +11,10 @@ You will need to be signed in to Ask-JGI SharePoint to access the above list. Th
 ```
 
 ## How to sign up for a shift
-1. Open shift blocks are pre-entered in the Ask-JGI shifts 2025/26 List. 
+1. Open shift blocks are pre-entered in the Ask-JGI shifts 2026/27 List. 
 
 ::::{image} ../../images/shift_open.png
-:alt: A screengrab from the Ask-JGI shifts 2025/26 List showing open shifts.
+:alt: A screengrab from the Ask-JGI shifts 2026/27 List showing open shifts.
 ::::
 </br></br>
 

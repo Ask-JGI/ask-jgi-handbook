@@ -1,7 +1,7 @@
 (meetings)=
 # Weekly meetings
 
-**Time:** Tuesday at 16:00  
+**Time:** TBC 
 **Place:** Hybrid (Garden Room, Royal Fort House or MS Teams)
 
 All Ask-JGI team members are expected to attend the weekly meetings to
@@ -9,7 +9,7 @@ keep abreast of relevant news and developments. Team members will
 receive calendar invites to these meetings, which will be chaired by
 the Ask-JGI lead.
 
-You can claim for the time spent attending the weekly team meeting, which should not last longer than 1 hour.
+You can claim for the time spent attending the weekly team meeting, which should be claimed for 1 hour.
 
 The Ask-JGI lead will create the meeting in the Teams channel.
 This is a weekly catch-up so that:
