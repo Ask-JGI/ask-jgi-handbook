@@ -8,7 +8,51 @@ You are one of our team of PhD students who handles queries from researchers acr
 
 You are often going to be the first point of engagement for researchers with the Jean Golding Institute, which means that being punctual, courteous and professional with researchers you interact with is important. You should expect researchers to treat you the same.
 
-The Ask-JGI PhD students for the 2025/2026 academic year are:
+The Ask-JGI PhD students for the 2026/2027 academic year are:
+
+**Zhengzhe Peng** [✉️](mailto:) 
+       
+<br>
+
+**Tim Murphy** [✉️](mailto:) 
+       
+<br>
+
+**Boyang Yu** [✉️](mailto:) 
+       
+<br>
+
+**Boyi Li** [✉️](mailto:) 
+       
+<br>
+
+**Caroline Schreiber** [✉️](mailto:) 
+       
+<br>
+
+**Ikechukwu Ofodile** [✉️](mailto:) 
+       
+<br>
+
+**Zhujun Liu** [✉️](mailto:) 
+       
+<br>
+
+
+
+
+## Ask-JGI Lead
+
+You are one of the JGI's full time Data/RSE Scientists, responsible for the overall management of the Ask-JGI helpdesk. This means you are responsible for the recruitment and training of the Ask-JGI PhD students, attending the meetings and working with the Ask-JGI students to make sure everything is running smoothly.
+
+The Ask-JGI PhD student will expect to be able to contact you about any queries relating to costing out data science support or anything else that falls out of scope for the Ask-JGI team. You are responsible for coordinating with JGI admin to make sure that contracts are up to date and that Ask-JGI students are doing pay claims to make sure they get paid for the work that they do. If the Ask-JGI PhD students have any concerns about any interactions with researchers, they should come to you.
+
+The Ask-JGI Lead for the 26/27 academic year is [Josh Tyler](https://jtyler13.github.io/) [✉️](mailto:josh.tyler@bristol.ac.uk).
+
+
+## 2025/2026 Cohort
+
+The Ask-JGI PhD students for the 2025/2026 academic year were:
 
 **Fahd Abdelazim** [✉️](mailto:fahd.abdelazim@bristol.ac.uk) 
        
@@ -32,14 +76,4 @@ The Ask-JGI PhD students for the 2025/2026 academic year are:
 
 **Yining Yuan** [✉️](mailto:yining.yuan@bristol.ac.uk)
 
-
-
-
-
-## Ask-JGI Lead
-
-You are one of the JGI's full time Data/RSE Scientists, responsible for the overall management of the Ask-JGI helpdesk. This means you are responsible for the recruitment and training of the Ask-JGI PhD students, attending the meetings and working with the Ask-JGI students to make sure everything is running smoothly.
-
-The Ask-JGI PhD student will expect to be able to contact you about any queries relating to costing out data science support or anything else that falls out of scope for the Ask-JGI team. You are responsible for coordinating with JGI admin to make sure that contracts are up to date and that Ask-JGI students are doing pay claims to make sure they get paid for the work that they do. If the Ask-JGI PhD students have any concerns about any interactions with researchers, they should come to you.
-
-The Ask-JGI Lead for the 25/26 academic year is [Rita Rasteiro](https://research-information.bris.ac.uk/en/persons/rita-rasteiro) [✉️](mailto:rita.rasteiro@bristol.ac.uk).
+The Ask-JGI Lead for the 25/26 academic year was [Rita Rasteiro](https://research-information.bris.ac.uk/en/persons/rita-rasteiro) [✉️](mailto:rita.rasteiro@bristol.ac.uk).
