@@ -68,11 +68,15 @@ This ensures that the same tracker ticket is updated as the email thread evolves
 
 You can read more about how to set up meetings and what to do in the [Arranging meetings section](arranging-meetings).
 
-## 6.  Keep the tracker up to date!
+## 6.  Create a Repo on the Ask-JGI Github
+
+The Ask-JGI team member should create a repo on the [Ask-JGI Github](https://github.com/Ask-JGI), using the template repo, and complete the project information pages. Sensitive data should not be stored on github, and instead should be stored on the sharepoint (see below). Repos should be private unless told otherwise.
+
+## 7.  Keep the tracker up to date!
 
 The Ask-JGI team member should use the notes section of their query ticket on the Ask-JGI [tracker](tracker) to record the status and current actions from their query.
 
-## 7.  Resolve the query
+## 8.  Resolve the query
 
 Once the query has been resolved, the ticket on the tracker should be marked as resolved. You should also archive the email thread by moving it to the 'Archive' folder in the Ask-JGI mailbox.
 
